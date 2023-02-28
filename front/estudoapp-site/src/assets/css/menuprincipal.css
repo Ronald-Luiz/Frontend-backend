@@ -1,0 +1,38 @@
+/*MENU*/
+
+.conexaoHeader {
+  display: flex;
+  align-items: center;
+  color: white;
+
+}
+
+.conexaoHeader:hover {
+  cursor: pointer;
+  color: greenyellow;
+}
+
+.iconeConexaoHeader {
+  height: 30px;
+  margin-right: 14px;
+}
+
+.iconeConexaoHeader:hover {
+  color:greenyellow;
+}
+
+
+
+.ms-auto {
+  text-align: center;
+}
+
+
+a.nav-link {
+  font-size: 20px;
+  margin-left: 14px;
+}
+
+/*
+.active.nav-link {}
+*/
