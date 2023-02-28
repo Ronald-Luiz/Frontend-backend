@@ -1,0 +1,25 @@
+html, body, #root {
+  width: 100%;
+  height: 100%;
+  background-color: #eeefee;
+}
+
+.containerBotaoConexao{
+  display: flex;
+  justify-content: center;
+}
+
+.botaoConexao{
+  width: 100%;
+  height: 36px;
+  background-color:#8ABBED;
+  color: white;
+  font-size: 18px;
+  border: 0px;
+}
+
+.botaoConexao:hover{
+  background-color:#0e7ae6;
+    cursor: pointer;
+    color: greenyellow;
+}
