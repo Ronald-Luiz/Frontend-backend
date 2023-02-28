@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 .botao {
     border: 0;
     padding: 10px;
@@ -14,4 +15,22 @@
 .image {
     width: 200px;
     height: 200px;
+=======
+.botao {
+    border: 0;
+    padding: 10px;
+    width: 100px;
+    height: 50px;
+    display: inline-block;
+    margin-left: auto;
+    margin-right: auto;
+    cursor: pointer;
+    border-radius: 4px;
+    margin-bottom: 20px;
+}
+
+.image {
+    width: 200px;
+    height: 200px;
+>>>>>>> 92c19fd0d62efe75a969cf8600da3acfb459ec2c
 }
