@@ -23,9 +23,8 @@
 <h2>front-end:</h2>
 
 ```
-1 - npm i
-2 - npm install react-typed --force
-3 - npm install sweetalert2 --force
-4 - npm run dev
+1 - npm install react-typed --force
+2 - npm install sweetalert2 --force
+3 - npm run dev
 ```
 **http://localhost:5173**
