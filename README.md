@@ -12,6 +12,8 @@
 
 <h2>back-end:</h2>
 
+`OBS: dá um cd na pasta back e execute os comandos:`
+
 ```
 1 - npm i
 2 - npm run migrate 
@@ -22,7 +24,7 @@
 
 <h2>front-end:</h2>
 
-`OBS: dá um cd na pasta estudoapp-site`
+`OBS: dá um cd na pasta estudoapp-site e execute os comandos:`
 
 ```
 1 - npm i
