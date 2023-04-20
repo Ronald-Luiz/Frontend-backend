@@ -27,9 +27,7 @@
 `OBS: dá um cd na pasta estudoapp-site e execute os comandos:`
 
 ```
-1 - npm i
-2 - npm install react-typed --force
-3 - npm install sweetalert2 --force
-4 - npm run dev
+1 - npm i --force
+2 - npm run dev
 ```
 **http://localhost:5173**
